@@ -28,10 +28,10 @@ function Get-CommonTimeZone
         FunctionName    : Get-CommonTimeZone
         Created by      : Seeni Ahmaed Jisthi
         Date Coded      : 04/11/2022 23:19:00
-        More info       : https://github.com/ssaj07/Rockspace
+        More info       : https://github.com/ssaj07/Rackspace
     .LINK
         Related Link.
-        https://github.com/ssaj07/Rockspace
+        https://github.com/ssaj07/Rackspace
 #>
 [CmdletBinding(DefaultParameterSetName='Name')]
 Param
