@@ -26,7 +26,7 @@ function Get-CommonTimeZone
         
     .NOTES
         FunctionName    : Get-CommonTimeZone
-        Created by      : Seeni Ahmaed Jisthi
+        Created by      : Seeni Ahamed Jisthi
         Date Coded      : 04/11/2022 23:19:00
         More info       : https://github.com/ssaj07/Rackspace
     .LINK
