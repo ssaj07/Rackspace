@@ -43,7 +43,7 @@ Param
 )
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-$TimeZoneData = Invoke-WebRequest  https://raw.githubusercontent.com/ssaj07/Rockspace/main/timezone.json  | ConvertFrom-Json
+$TimeZoneData = Invoke-WebRequest  https://raw.githubusercontent.com/ssaj07/Rackspace/main/timezone.json  | ConvertFrom-Json
 
 if($PsCmdlet.ParameterSetName -eq "Name")
 {
